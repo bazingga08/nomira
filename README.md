@@ -36,9 +36,9 @@ To build it, we went to school on naming. We sat with the published playbooks of
 
 Then we went deeper than the studios usually let on. We dug into the actual science of why some words *feel* right:
 
-- **The psychology of sound** — why "Kee-koo" feels sharp and "Boo-bah" feels round to almost everyone on Earth, in study after study, across languages and even with little kids who can't read yet. Real peer-reviewed research, not vibes.
-- **How memory actually grabs a word** — why some names stick on the first hearing and others slide right off.
-- **What the law will actually let you own** — straight from the official trademark offices, so the names you fall in love with aren't ones you can never have.
+- **The psychology of sound.** Why "Kee-koo" feels sharp and "Boo-bah" feels round to almost everyone on Earth, in study after study, across languages and even with little kids who can't read yet. Real peer-reviewed research, not vibes.
+- **How memory actually grabs a word.** Why some names stick on the first hearing and others slide right off.
+- **What the law will actually let you own.** Straight from the official trademark offices, so the names you fall in love with aren't ones you can never have.
 
 All of it, hundreds of sources, got boiled down into a method the skill runs the same careful way every time. The afternoon you'd spend guessing is the afternoon Nomira spends *working*, except it does the work of a dozen specialists at once and doesn't need coffee.
 
