@@ -6,3 +6,6 @@ __pycache__/
 # Third-party copyrighted material — kept local, not published
 research/sources/
 research/raw-web-dumps/
+
+# Marketing drafts — local working files, not part of the public skill
+launch/

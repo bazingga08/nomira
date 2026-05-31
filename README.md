@@ -94,6 +94,29 @@ Calm and trustworthy, not a flashy finance-bro vibe.
 
 Nomira asks two or three questions, then comes back with a ranked short list. Every name carries its reasoning, its sound notes, and a trademark risk flag. You pick one and ship.
 
+Here's the shape of what comes back:
+
+```
+TOP 3 PICKS
+
+1. Tendio          84  [Strong]
+   Coined from "tend" (to look after) + a soft -io ending.
+   Sounds calm and careful, which is the feeling you asked for.
+   Trademark: clean in the finance-app space. Grab the .com.
+
+2. Ledgerly        79  [Strong]
+   "Ledger" said in a friendly, human way.
+   Clear about what it does without sounding like a spreadsheet.
+   Trademark: some nearby names, worth a proper search.
+
+3. Quill           71  [Caution]
+   A real word: the pen freelancers invoice with.
+   Warm and simple, but heavily used, so harder to own.
+   Trademark: crowded. Treat with care.
+```
+
+You pick one and ship.
+
 ---
 
 ## What's in this repo
