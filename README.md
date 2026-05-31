@@ -1,159 +1,173 @@
 <div align="center">
 
-# Nomira
+# ✨ Nomira
 
-### A whole brand-naming agency, packed into one Claude Code skill.
+### a whole brand-naming agency, stuffed into one Claude Code skill 🪄
 
-Tell it what you're building. It asks a few sharp questions, dreams up hundreds of names, argues with itself about which ones are any good, checks them for trademark and language landmines, scores them, and hands you a short list you'd actually be proud to use.
+You bring the half-baked idea. It brings the strategist, the word-nerd, and the trademark lawyer.
 
-No blank-page panic. No "we'll fix the name later." Just good names, with reasons.
+Tell it what you're building → it asks a couple of sharp questions → dreams up *hundreds* of names → argues with itself about which ones slap → screens them for trademark + language landmines → scores them cold → hands you a shortlist you'd actually be proud to ship. 🔥
 
-`/nomira` · free · open source
+**no blank-page panic. no "we'll fix the name later." just good names, with receipts.**
+
+```
+/nomira
+```
+
+`free` · `open source` · `MIT` · `runs in Claude Code`
 
 </div>
 
 ---
 
-## Explain it like I'm five
+## 🍼 explain it like i'm five
 
 You made something cool. Now it needs a name.
 
-You could think hard for ten minutes and pick the first okay word that pops up. Most people do. The name usually ends up forgettable, or already taken, or it means something embarrassing in another language.
+You *could* think hard for ten minutes and grab the first okay word that shows up. Most people do. That name usually ends up forgettable, already taken, or secretly cursed in another language. 💀
 
-The big companies don't gamble like that. They hand the job to a naming studio and pay about the price of a car for it. Inside that studio sit word people, sound people, and lawyers, all fussing over a single name for weeks.
+Big companies don't gamble like that. They hand the job to a naming studio and pay roughly *the price of a car* for it. Inside that studio: word people, sound people, and lawyers, all sweating over one name for weeks.
 
-**Nomira is that studio, living on your laptop, working for free, and it never gets tired.**
+**Nomira is that studio, living on your laptop, working for free, and it literally never gets tired.**
 
-Say *"I'm making a coffee app for night-shift workers."* Nomira dreams up a big pile of names, throws out the duds, double-checks the survivors, and hands you the best few with a reason for each. Done.
-
----
-
-## What went into this (the fun part)
-
-Nomira isn't a word blender with a thesaurus taped to it. It's the distilled habits of an entire craft.
-
-To build it, we went to school on naming. We sat with the published playbooks of the world's most respected naming studios, the ones whose names you say every single day without ever wondering who dreamed them up. We read the founders being interviewed, watched the talks, and pulled the transcripts so nothing got lost in a summary.
-
-Then we went deeper than the studios usually let on. We dug into the actual science of why some words *feel* right:
-
-- **The psychology of sound.** Why "Kee-koo" feels sharp and "Boo-bah" feels round to almost everyone on Earth, in study after study, across languages and even with little kids who can't read yet. Real peer-reviewed research, not vibes.
-- **How memory actually grabs a word.** Why some names stick on the first hearing and others slide right off.
-- **What the law will actually let you own.** Straight from the official trademark offices, so the names you fall in love with aren't ones you can never have.
-
-All of it, hundreds of sources, got boiled down into a method the skill runs the same careful way every time. The afternoon you'd spend guessing is the afternoon Nomira spends *working*, except it does the work of a dozen specialists at once and doesn't need coffee.
-
-> Behind that friendly `/nomira` prompt is a small army of experts who all happen to live in the same program.
+You say *"coffee app for night-shift workers"* → it dreams up a big pile of names, yeets the duds, double-checks the survivors, and hands you the best few with a reason for each. that's the whole vibe. ☕
 
 ---
 
-## How it works
+## 🧠 what actually went into this (the lore)
 
-Nomira runs the same stages a real studio does. You stop once, near the start, to answer a few questions. After that, it runs the whole show itself.
+Nomira is not a word blender with a thesaurus taped to it. it's the distilled habits of an entire craft.
+
+We basically went to school on naming. 🎓 We sat with the published playbooks of the world's most respected naming studios — the ones whose names you say *every single day* without ever wondering who cooked them up. We read the founders getting interviewed, watched the talks, pulled the transcripts so nothing got lost in translation.
+
+Then we went deeper than the studios usually let on, into the actual *science* of why some words just **feel** right:
+
+- 🔊 **the psychology of sound** — why "kee-kee" feels sharp and "boo-bah" feels round to basically everyone on Earth, in study after study, across languages, even with toddlers who can't read yet. real peer-reviewed research, not vibes.
+- 🧲 **how memory grabs a word** — why some names stick on the first listen and others slide right off your brain.
+- ⚖️ **what the law will actually let you own** — straight from the official trademark offices, so the name you fall for isn't one you can never have.
+
+Hundreds of sources. one method. boiled down so the skill runs it the same careful way *every single time.* the afternoon you'd waste guessing is the afternoon Nomira spends **working** — except it's doing the job of a dozen specialists at once and doesn't need snacks.
+
+> 🥷 behind that cute little `/nomira` prompt is a small army of experts who all happen to live inside the same program.
+
+---
+
+## ⚙️ how it works
+
+Real studio process, automated. You stop *once*, near the start, to answer a few Qs. After that it runs the whole show solo. 🎬
 
 ```
-   YOU describe the thing
-          │
-          ▼
-   1. INTAKE        →  asks you a few sharp questions, fills the rest with smart defaults
-          │
-   2. STRATEGY      →  locks in the ONE idea the name has to carry
-          │
-   3. GENERATE      →  dreams up hundreds of candidates, judgment switched off
-          │
-   4. QUICK CUT     →  drops the unpronounceable, the copycats, the duds
-          │
-   5. DEBATE        →  a strategist, a word-nerd, and a lawyer fight it out
-          │
-   6. SCREEN+SCORE  →  trademark + language checks, then cold, honest numbers
-          │
-          ▼
-   7. SHORTLIST     →  your best names, each with a real reason and a risk flag
+        🧑‍💻 you describe the thing
+                │
+                ▼
+   1️⃣  INTAKE        →  asks a few sharp Qs, fills the rest with smart defaults
+                │
+   2️⃣  STRATEGY      →  locks the ONE idea the name has to carry
+                │
+   3️⃣  GENERATE      →  dreams up hundreds of names, judgment switched OFF
+                │
+   4️⃣  QUICK CUT     →  drops the unpronounceable, the copycats, the cringe
+                │
+   5️⃣  DEBATE        →  strategist 🆚 word-nerd 🆚 lawyer, fight!
+                │
+   6️⃣  SCREEN+SCORE  →  trademark + language checks, then cold honest numbers
+                │
+                ▼
+   7️⃣  🏆 SHORTLIST  →  your best names, each with a reason + a risk flag
 ```
 
-What makes it more than a random word generator:
+why it's more than a vibes-based word generator:
 
-- **Meaning comes before words.** No name gets made until the strategy is nailed down. A muddled brief makes muddled names, so this step quietly does half the work.
-- **It uses sound on purpose.** Soft sounds feel calm, hard sounds feel fast. Nomira matches the sound to the feeling you're after, and it learned that from research, not taste.
-- **It argues with itself.** Different expert voices score every name and brawl over the close calls. The survivors come out stronger for it.
-- **The math can't lie.** Scoring runs through a small program, not a gut feeling. Break a rule and the score drops on its own, so the numbers never quietly disagree with the reasoning.
-- **It's honest about risk.** You get a pre-check, not legal cover. Nomira flags trademark danger and language traps, and it tells you plainly when a name needs a real lawyer.
+- 🎯 **meaning before words.** no name gets made until the strategy is locked. a messy brief makes messy names, so this step quietly does half the work.
+- 🔊 **sound on purpose.** soft sounds feel calm, hard sounds feel fast. Nomira matches the *sound* to the *feeling* you want, and it learned that from research, not taste.
+- 🥊 **it argues with itself.** different expert voices score every name and throw hands over the close calls. survivors come out stronger.
+- 🧮 **the math can't lie.** scoring runs through an actual program, not a gut feeling. break a rule → the score drops on its own. the numbers never quietly disagree with the reasoning.
+- 🚧 **honest about risk.** you get a pre-check, not legal cover. it flags trademark danger + language traps, and straight-up tells you when a name needs a real lawyer.
 
 ---
 
-## Install
+## 🚀 install
 
-You'll need [Claude Code](https://docs.claude.com/en/docs/claude-code).
+You'll need [Claude Code](https://docs.claude.com/en/docs/claude-code). Then:
 
 ```bash
 git clone https://github.com/bazingga08/nomira.git
 ln -s "$(pwd)/nomira/skill" ~/.claude/skills/nomira
 ```
 
-The second line points Claude Code at the skill. Open Claude Code, type `/nomira`, and tell it what you're naming.
+That second line points Claude Code at the skill. Open Claude Code, type `/nomira`, describe what you're naming. that's it. ⚡
 
 ---
 
-## Try it
+## 🎮 try it
 
 ```
 /nomira
 
-I'm building a budgeting app for freelancers who hate spreadsheets.
-Calm and trustworthy, not a flashy finance-bro vibe.
+budgeting app for freelancers who hate spreadsheets.
+calm + trustworthy, NOT a flashy finance-bro vibe.
 ```
 
-Nomira asks two or three quick questions, then comes back with a ranked short list. Here's the shape of what lands:
+a couple quick Qs later, you get back something like this 👇
 
 ```
-TOP 3 PICKS
+🏆 TOP 3 PICKS
 
-1. Tendio          84  [Strong]
-   Coined from "tend" (to look after) + a soft -io ending.
-   Sounds calm and careful, which is the feeling you asked for.
-   Trademark: clean in the finance-app space. Grab the .com.
+1. Tendio          84  🟢 Strong
+   coined: "tend" (to look after) + soft -io ending
+   sounds calm + careful, exactly the feeling you asked for
+   trademark: clean in the finance-app space. grab the .com 👀
 
-2. Ledgerly        79  [Strong]
-   "Ledger" said in a friendly, human way.
-   Clear about what it does without sounding like a spreadsheet.
-   Trademark: a few neighbors, worth a proper search.
+2. Ledgerly        79  🟢 Strong
+   "ledger," but said like a human, not a spreadsheet
+   clear about what it does, still has warmth
+   trademark: a few neighbors, worth a proper search
 
-3. Quill           71  [Caution]
-   A real word: the pen freelancers invoice with.
-   Warm and simple, but heavily used, so harder to own.
-   Trademark: crowded. Handle with care.
+3. Quill           71  🟡 Caution
+   real word: the pen freelancers invoice with
+   warm + simple, but heavily used → harder to own
+   trademark: crowded. handle with care
 ```
 
-You pick one and ship.
+you pick one. you ship. you go touch grass. 🌱
 
 ---
 
-## What's in this repo
+## 📦 what's in the box
 
 ```
 nomira/
-├── skill/            the actual skill Claude runs
+├── skill/            👈 the actual skill Claude runs
 │   ├── SKILL.md          the main pipeline
 │   ├── reference/        the deep method: sound rules, scoring, screening
 │   └── scripts/          the scoring program
-└── research/         the knowledge base behind it all, with sources cited
+└── research/         🧠 the knowledge base behind it all, sources cited
 ```
 
-Everything is open. Read it, fork it, tune the scoring weights to your own taste. The research folder is the good stuff: the distilled craft, laid out so you can see *why* it makes the calls it makes.
+it's all open. read it, fork it, tune the scoring weights to your own taste. the `research/` folder is the real treasure — the distilled craft, laid out so you can see *why* it makes the calls it makes.
 
 ---
 
-## What it won't do
+## 🙅 what it won't do
 
-Nomira speeds you up. It doesn't replace your judgment.
+Nomira is a glow-up for your process, not a replacement for your brain.
 
-- It gives a trademark **pre-screen**, not a clearance. Get a real trademark search before you commit a name.
-- The sound-meaning effect is a strong tendency, not a law. It counts for more in everyday consumer products than in slow, careful B2B buying.
-- The taste is still yours. Nomira gets you to a strong short list fast, but the final call, and selling the name to your team, stays with you.
+- ⚖️ trademark **pre-screen**, not a clearance. get a real search before you commit.
+- 🔊 the sound→meaning effect is a strong *tendency*, not a law. matters more for everyday consumer stuff than slow, careful B2B buys.
+- 🫵 the taste is still yours. it gets you to a strong shortlist *fast*, but the final call (and selling it to your team) stays human.
 
-> One more thing: Nomira named itself. We pointed the skill at its own brief and let it run. The first round flopped. It dusted itself off, went again, and landed on "Nomira" (from the Latin *nomen*, meaning *name*). The tool passed its own exam.
+> 🤯 plot twist: **Nomira named itself.** we pointed the skill at its own brief and let it cook. round one flopped. it dusted itself off, ran again, and landed on *Nomira* (from Latin *nomen* = "name"). the tool passed its own exam. 🎓
 
 ---
 
-## License
+<div align="center">
 
-MIT. Use it, change it, build something better on top of it.
+### built by an AI agency that's naming itself into existence, one skill at a time.
+
+if Nomira names something you ship, tag it. we wanna see. 👀
+
+**⭐ star it · 🍴 fork it · 🛠️ build on it**
+
+`MIT` — use it, remix it, make something better.
+
+</div>
