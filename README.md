@@ -38,15 +38,15 @@ You say *"coffee app for night-shift workers"* → it dreams up a big pile of na
 
 Nomira is not a word blender with a thesaurus taped to it. it's the distilled habits of an entire craft.
 
-We basically went to school on naming. 🎓 We sat with the published playbooks of the world's most respected naming studios — the ones whose names you say *every single day* without ever wondering who cooked them up. We read the founders getting interviewed, watched the talks, pulled the transcripts so nothing got lost in translation.
+We basically went to school on naming. 🎓 We sat with the published playbooks of the world's most respected naming studios. (You know the ones. Their names live in your pocket and you say them every single day without ever wondering who cooked them up.) We read the founders getting interviewed, watched the talks, pulled the transcripts so nothing got lost in translation.
 
 Then we went deeper than the studios usually let on, into the actual *science* of why some words just **feel** right:
 
-- 🔊 **the psychology of sound** — why "kee-kee" feels sharp and "boo-bah" feels round to basically everyone on Earth, in study after study, across languages, even with toddlers who can't read yet. real peer-reviewed research, not vibes.
-- 🧲 **how memory grabs a word** — why some names stick on the first listen and others slide right off your brain.
-- ⚖️ **what the law will actually let you own** — straight from the official trademark offices, so the name you fall for isn't one you can never have.
+- 🔊 **the psychology of sound.** why "kee-kee" feels sharp and "boo-bah" feels round to basically everyone on Earth, in study after study, across languages, even with toddlers who can't read yet. real peer-reviewed research, not vibes.
+- 🧲 **how memory grabs a word.** why some names stick on the first listen and others slide right off your brain.
+- ⚖️ **what the law will actually let you own.** straight from the official trademark offices, so the name you fall for isn't one you can never have.
 
-Hundreds of sources. one method. boiled down so the skill runs it the same careful way *every single time.* the afternoon you'd waste guessing is the afternoon Nomira spends **working** — except it's doing the job of a dozen specialists at once and doesn't need snacks.
+Hundreds of sources. one method. boiled down so the skill runs it the same careful way *every single time.* the afternoon you'd waste guessing is the afternoon Nomira spends **working**, except it's doing the job of a dozen specialists at once and doesn't need snacks.
 
 > 🥷 behind that cute little `/nomira` prompt is a small army of experts who all happen to live inside the same program.
 
@@ -144,7 +144,7 @@ nomira/
 └── research/         🧠 the knowledge base behind it all, sources cited
 ```
 
-it's all open. read it, fork it, tune the scoring weights to your own taste. the `research/` folder is the real treasure — the distilled craft, laid out so you can see *why* it makes the calls it makes.
+it's all open. read it, fork it, tune the scoring weights to your own taste. the `research/` folder is the real treasure: the distilled craft, laid out so you can see *why* it makes the calls it makes.
 
 ---
 
@@ -168,6 +168,6 @@ if Nomira names something you ship, tag it. we wanna see. 👀
 
 **⭐ star it · 🍴 fork it · 🛠️ build on it**
 
-`MIT` — use it, remix it, make something better.
+`MIT`. use it, remix it, make something better.
 
 </div>
