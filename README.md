@@ -20,8 +20,6 @@ Tell it what you're building → it asks a couple of sharp questions → dreams 
 
 ---
 
-## 🍼 explain it like i'm five
-
 You made something cool. Now it needs a name.
 
 You *could* think hard for ten minutes and grab the first okay word that shows up. Most people do. That name usually ends up forgettable, already taken, or secretly cursed in another language. 💀
