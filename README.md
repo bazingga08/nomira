@@ -135,7 +135,7 @@ you pick one. you ship. you go touch grass. 🌱
 
 ```
 nomira/
-├── skill/            👈 the actual skill Claude runs
+├── skills/nomira/    👈 the actual skill Claude runs
 │   ├── SKILL.md          the main pipeline
 │   ├── reference/        the deep method: sound rules, scoring, screening
 │   └── scripts/          the scoring program
