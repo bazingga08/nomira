@@ -2,19 +2,23 @@
 
 # ✨ Nomira
 
-### a whole brand-naming agency, stuffed into one Claude Code skill 🪄
+### there are two hard things in computer science. this fixes one of them. 🪄
 
-You bring the half-baked idea. It brings the strategist, the word-nerd, and the trademark lawyer.
+> *"cache invalidation and naming things."* we can't help with the first one.
+
+A whole brand-naming studio, stuffed into one Claude Code skill. You bring the half-baked idea. It brings the strategist, the word-nerd, and the trademark lawyer.
 
 Tell it what you're building → it asks a couple of sharp questions → dreams up *hundreds* of names → argues with itself about which ones slap → screens them for trademark + language landmines → scores them cold → hands you a shortlist you'd actually be proud to ship. 🔥
 
 **no blank-page panic. no "we'll fix the name later." just good names, with receipts.**
 
-```
-/nomira
+```bash
+npx skills add bazingga08/nomira
 ```
 
-`free` · `open source` · `MIT` · `runs in Claude Code`
+then `/nomira` and tell it what you're building.
+
+`free` · `open source` · `MIT` · `it named itself`
 
 </div>
 
