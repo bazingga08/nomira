@@ -50,6 +50,14 @@ Hundreds of sources. one method. boiled down so the skill runs it the same caref
 
 ---
 
+## 🏷️ the name
+
+**Nomira** comes from the Latin *nomen*, meaning "name" (the same root behind *nominate*, *noun*, and *renown*). The soft *-ira* ending rounds it off so it lands like a real, ownable word instead of a label.
+
+It fits because a name is exactly what it gives you, and because of how it got here: we pointed the skill at its own brief and let it name itself. It ran its whole process, scored the field, and *Nomira* came out on top. The naming tool earned its own name. 🎓
+
+---
+
 ## ⚙️ how it works
 
 Real studio process, automated. You stop *once*, near the start, to answer a few Qs. After that it runs the whole show solo. 🎬
@@ -154,13 +162,13 @@ Nomira is a glow-up for your process, not a replacement for your brain.
 - 🔊 the sound→meaning effect is a strong *tendency*, not a law. matters more for everyday consumer stuff than slow, careful B2B buys.
 - 🫵 the taste is still yours. it gets you to a strong shortlist *fast*, but the final call (and selling it to your team) stays human.
 
-> 🤯 plot twist: **Nomira named itself.** we pointed the skill at its own brief and let it cook. round one flopped. it dusted itself off, ran again, and landed on *Nomira* (from Latin *nomen* = "name"). the tool passed its own exam. 🎓
+> 🤯 the fun part: it named itself. we pointed the skill at its own brief and let it cook. round one flopped. it dusted itself off, ran again, and landed on *Nomira*. the tool passed its own exam.
 
 ---
 
 <div align="center">
 
-### built by an AI agency that's naming itself into existence, one skill at a time.
+### a free, open-source naming tool that's good enough to name itself.
 
 if Nomira names something you ship, tag it. we wanna see. 👀
 
