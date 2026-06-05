@@ -58,7 +58,7 @@ Hundreds of sources. one method. boiled down so the skill runs it the same caref
 
 **Nomira** comes from the Latin *nomen*, meaning "name" (the same root behind *nominate*, *noun*, and *renown*). The soft *-ira* ending rounds it off so it lands like a real, ownable word instead of a label.
 
-It fits because a name is exactly what it gives you, and because of how it got here: we pointed the skill at its own brief and let it name itself. It ran its whole process, scored the field, and *Nomira* came out on top. The naming tool earned its own name. 🎓
+It fits because a name is exactly what it gives you, and because of how it got here: we pointed the skill at its own brief and let it run. It scored the field and handed back three finalists. *Calliope* actually scored highest, but we chose *Nomira*: coined, complete, clean to own. The tool earned the shortlist. The human made the call. That partnership is the whole idea. 🎓
 
 ---
 
@@ -166,7 +166,7 @@ Nomira is a glow-up for your process, not a replacement for your brain.
 - 🔊 the sound→meaning effect is a strong *tendency*, not a law. matters more for everyday consumer stuff than slow, careful B2B buys.
 - 🫵 the taste is still yours. it gets you to a strong shortlist *fast*, but the final call (and selling it to your team) stays human.
 
-> 🤯 the fun part: it named itself. we pointed the skill at its own brief and let it cook. round one flopped. it dusted itself off, ran again, and landed on *Nomira*. the tool passed its own exam.
+> 🤯 the fun part: it named itself. we pointed the skill at its own brief and let it run. round one flopped. round two came back with three finalists: **Calliope** (87.5), **Nomira** (83.5), and **Atlas**. Calliope actually scored *highest*, but we picked Nomira: coined, complete, clean to own. which is the whole point: the scoreboard gets you a shortlist you'd be proud of, then a human makes the call. the taste stays yours.
 
 ---
 
